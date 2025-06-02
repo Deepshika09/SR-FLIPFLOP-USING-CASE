@@ -1,3 +1,5 @@
+# Name :Deepshika Hemanth kumar
+# registr number :212224220020
 # SR-FLIPFLOP-USING-CASE
 
 **AIM:**
@@ -47,17 +49,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 
 **PROGRAM**
-
 ```
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. 
-Developed by: GAUTHAM KRISHNA S
-RegisterNumber: 212223240036
-*/
-```
-
-```VHDL
-
-
 module EXP_6(q, q_bar, s,r, clk, reset);//SR Flip Flop Behavioral Level using ‘case’ 
   input s,r,clk, reset;
   output reg q;
@@ -78,7 +70,7 @@ module EXP_6(q, q_bar, s,r, clk, reset);//SR Flip Flop Behavioral Level using �
   end
   assign q_bar = ~q;
 endmodule
-
+```
 
 
 ```
