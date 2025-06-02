@@ -1,5 +1,5 @@
 # Name :Deepshika Hemanth kumar
-# registr number :212224220020
+# register number :212224220020
 # SR-FLIPFLOP-USING-CASE
 
 **AIM:**
